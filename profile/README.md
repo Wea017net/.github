@@ -12,7 +12,7 @@ I'm a beginner at GitHub and programming.
 
 ### スキル / Skills
 
-準備中 / In preparation
+![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 ### GitHub Stats
 
