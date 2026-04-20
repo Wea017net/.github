@@ -17,8 +17,8 @@ I'm a beginner at GitHub and programming.
 ### GitHub Stats
 
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/Wea017net/.github/8dbbab60659f662ef7037b45e3fdfb411825ddbe/images/stats.svg" height="180px" alt="GitHub Stats">
-  <img src="https://raw.githubusercontent.com/Wea017net/.github/8dbbab60659f662ef7037b45e3fdfb411825ddbe/images/top-langs.svg" height="180px" align="top" alt="Top Languages">
+  <img src="https://raw.githubusercontent.com/Wea017net/.github/refs/heads/main/images/stats.svg" height="180px" alt="GitHub Stats">
+  <img src="https://raw.githubusercontent.com/Wea017net/.github/refs/heads/main/images/top-langs.svg" height="180px" align="top" alt="Top Languages">
 </p>
 
 ### Discord
