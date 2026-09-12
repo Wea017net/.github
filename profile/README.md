@@ -13,6 +13,7 @@ I'm a beginner at GitHub and programming.
 ### スキル / Skills
 
 ![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-%23006699.svg?style=for-the-badge&logo=processingfoundation&logoColor=white)
 
 ### GitHub Stats
 
